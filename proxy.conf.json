@@ -1,0 +1,10 @@
+{
+  "/": {
+    "target": "/",
+    "secure": false,
+    "logLevel": "debug",
+    "headers": {
+      "Content-Security-Policy-Report-Only": "default-src 'self' *"
+    }
+  }
+}
