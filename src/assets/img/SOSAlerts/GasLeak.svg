@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2550px" height="3300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2550 3300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_426888142512">
+   <g>
+    <path class="fil0 str0" d="M305.74 1553.89l784.85 0 0 1478.68 -784.85 0 0 -1478.68zm379.38 733.77c-11.82,5.8 -15.82,21.29 -10.49,36.98 40.84,0.36 58.24,0.29 96.47,-2.36 11.19,-10.84 5.33,-31.63 -17.6,-33.93 -0.21,-20.25 -0.65,-43.21 -0.06,-63.76 0.25,-8.83 57.73,-10.14 61.85,-11.39 47.49,-14.41 44.3,-55.65 44.06,-78.48 -0.38,-35.4 -0.86,-93.48 -67.99,-101.14 -16.96,-1.94 -53.58,-3.99 -118.47,1.57 -5.65,11.77 8.93,17.8 10.25,34.76 4.23,54.52 5.61,148.95 1.98,217.75zm-150.32 -215.99c0.05,57.94 -4.02,153.84 -2.7,217.91 0.29,14.43 -26.1,30.34 -11.66,30.52 17.3,0.2 131.82,7.47 137,-1.76 1.96,-3.48 6.54,-63.64 4.01,-63.06 -14.23,3.23 -28.53,-2.3 -29.09,6.1 -0.59,9 -6.54,18.22 -8.84,28.79l-20.5 0.96c-4.71,-54.48 7.7,-80.41 7.22,-87.76 -3.75,-57.66 -2.9,-74.58 -7.84,-130.8 14.76,-6.94 31.53,-32.84 16.71,-34.56 -41.86,-4.84 -52.88,-5.44 -99.73,-1.2 0,0 -7.63,14.86 15.42,34.86z"/>
+    <path class="fil0 str0" d="M752.82 2062.49c0.7,21.32 0,137.91 0,137.91 9.71,-6.63 18.7,-4.68 29.14,-19.9 3.27,-37.12 5.1,-68.6 -2.84,-107.35 -2.37,-16.35 -14.69,-17.77 -26.3,-10.66z"/>
+    <rect class="fil0 str0" x="453.53" y="1145.73" width="485.75" height="408.15"/>
+   </g>
+   <g>
+    <ellipse class="fil0 str0" cx="1221.12" cy="1014.67" rx="268.69" ry="201.52"/>
+    <ellipse class="fil0 str0" cx="1207.83" cy="668.65" rx="255.4" ry="258.53"/>
+    <ellipse class="fil0 str0" cx="1520.37" cy="547.08" rx="238.13" ry="271.31"/>
+    <ellipse class="fil0 str0" cx="1739.87" cy="831.62" rx="384.4" ry="250.22"/>
+    <ellipse class="fil0 str0" cx="1788.51" cy="546.05" rx="238.68" ry="270.28"/>
+   </g>
+  </g>
+ </g>
+</svg>
