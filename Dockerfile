@@ -3,7 +3,7 @@ FROM node:6.14.4 as builder
 
 RUN mkdir /ng-app
 COPY package.json /ng-app/package.json
-COPY package-lock.json /ng-app/package-lock.json
+#COPY package-lock.json /ng-app/package-lock.json
 
 WORKDIR /ng-app
 RUN cd /ng-app
